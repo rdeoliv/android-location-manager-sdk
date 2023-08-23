@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
             newMetadata.put("example_app", "true")
             newMetadata.put("refresh_time", System.currentTimeMillis())
 
-            this.naurtLocationManager?.updateMetadata(newMetadata)
+            this.naurtLocationManager?.newDestination(newMetadata)
 
         }
     }
