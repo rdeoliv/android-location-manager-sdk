@@ -15,7 +15,7 @@ It offers enhanced location tracking both indoors and outdoors, spoofing prevent
 
 <br>
 
-Naurt is a replacement for the standard Android location listener. Though before you begin, ensure you have a valid API key. If you don't, no worries. You can sign up for a free account on our [dashboard](https://dashboard.naurt.net/).
+Naurt is a replacement for the standard Android location listener. Though before you begin, ensure you have a valid API key. If you don't, no worries. You can sign up for a free account on our [dashboard](https://dashboard.naurt.com/).
 
 <br>
 
